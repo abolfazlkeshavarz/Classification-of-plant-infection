@@ -50,3 +50,4 @@ Sample predictions are visualized in the notebook, showcasing the model's abilit
 ---
 
 *Email*: abolfazlkeshavarz1112@gmail.com
+*Email*: erfantarehkar@gmail.com
